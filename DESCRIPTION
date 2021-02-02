@@ -1,0 +1,18 @@
+Package: facsDorit
+Version: 1.33.0
+Date: 2006-06-08
+Title: DKFZ FACS example data
+Author: Florian Hahne <f.hahne@dfkz-heidelberg.de>
+Depends: R (>= 1.9.1), prada (>= 1.0.5)
+Maintainer: Florian Hahne <f.hahne@dfkz-heidelberg.de>
+Description: FACS example data for cell-based assays. This data is used in the examples and vignettes of the package prada.
+License: GPL-2
+URL: http://www.dkfz.de/mga
+biocViews: ExperimentData, MicrotitrePlateAssayData
+git_url: https://git.bioconductor.org/packages/facsDorit
+git_branch: RELEASE_3_12
+git_last_commit: b2236cc
+git_last_commit_date: 2020-10-27
+Date/Publication: 2020-10-29
+NeedsCompilation: no
+Packaged: 2020-10-29 14:43:55 UTC; biocbuild
